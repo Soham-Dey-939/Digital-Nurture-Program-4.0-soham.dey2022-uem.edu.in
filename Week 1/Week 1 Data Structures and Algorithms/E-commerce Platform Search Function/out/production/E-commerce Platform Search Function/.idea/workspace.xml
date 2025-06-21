@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f604ab95-9a95-4197-8982-cb3e9a83f7b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Digital Nurture 4.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/E-commerce Platform Search Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asymptotic Notation.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/BuilderPatternExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/BuilderPatternExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/DocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/ExcelDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/ExcelDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/PdfDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/PdfDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/FactoryMethodPatternExample/src/WordDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/SingletonPatternExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/src/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 1 Design Patterns and Principles/SingletonPatternExample/src/SingletonTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2yh9IHByWo22cYZcEbx9Ns1pobq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Code/Digital Nurture 4.0/Week 1 Data Structures and Algorithms/E-commerce Platform Search Function"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f604ab95-9a95-4197-8982-cb3e9a83f7b0" name="Changes" comment="" />
+      <created>1750275858028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750275858028</updated>
+    </task>
+    <servers />
+  </component>
+</project>
