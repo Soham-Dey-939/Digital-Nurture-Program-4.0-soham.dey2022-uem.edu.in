@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+.column {
+  flex: 1;
+  padding: 1rem;
+}
+.column:not(:first-child) {
+  border-left: 2px solid green;
+}
+.column h2 {
+  margin-top: 0;
+}
